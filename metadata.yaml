@@ -1,0 +1,30 @@
+_repo: Social-Pictorial-Satire_12834
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Du Maurier, George
+    aliases:
+    - Du Maurier, George Louis Palmella Busson
+    - Maurier, George Du
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '4661'
+    url: http://www.gutenberg.org/2009/agents/4661
+    wikipedia: http://en.wikipedia.org/wiki/George_du_Maurier
+description: ''
+gutenberg_issued: '2004-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leech, John, 1817-1864'
+- !lcsh 'Caricature -- England'
+- !lcc 'NC'
+- !lcsh 'Keene, Charles, 1823-1891'
+- GITenberg
+title: Social Pictorial Satire
+url: http://www.gutenberg.org/ebooks/12834
